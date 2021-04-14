@@ -6,7 +6,6 @@
 ## 📝 | Sommaire
 
 - [À propos](#about)
-- [Déploiement du Bot](#deployment)
 - [Auteur](#authors)
 
 ## 🧐 | À propos <a name = "about"></a>
